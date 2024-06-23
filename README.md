@@ -2,7 +2,7 @@
 
 
 
-![logo](https://github.com/mumal885/spotify-clone/blob/main/sp.png)
+![logo](https://github.com/SumeetPatil7/spotify-clone-/blob/main/spotify%20clone%20%20%2B/sp.png)
 # spotify-clone
 This spotify-clone is coded in html, css,js.
 
